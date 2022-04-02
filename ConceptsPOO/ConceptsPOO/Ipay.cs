@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ConceptsPOO
+﻿namespace ConceptsPOO
 {
     /* 
      * Las interface son contratos que nos ayuda a evitar la multi herencia
