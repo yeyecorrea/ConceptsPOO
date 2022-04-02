@@ -1,6 +1,6 @@
 ﻿namespace ConceptsPOO
 {
-    public abstract class Employee
+    public abstract class Employee : Ipay
     {
         public int Id { get; set; }
         public string FirstName { get; set; }
